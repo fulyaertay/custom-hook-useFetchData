@@ -1,3 +1,28 @@
+## Project: Custom Hook-useFetchData
+
+## Visulation of the App
+
+![image](./custom-hook.png)
+
+## Description
+```bash
+- Project provides to manage fetching processes
+- User can see fetching status such as loading, success or error messages
+```
+
+## Overview
+I mastered HTML, CSS, JavaScript, React features in this project. You can see the visual representation of the app above.
+
+## Technologies 💻
+```bash
+- React(custom hook)
+- JavaScript
+- HTML/CSS
+- Data is fetched on https://jsonplaceholder.typicode.com
+```
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

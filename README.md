@@ -16,7 +16,7 @@ I mastered HTML, CSS, JavaScript, React features in this project. You can see th
 
 ## Technologies 💻
 ```bash
-- React(custom hook)
+- React(custom hook,useState, useEffect)
 - JavaScript
 - HTML/CSS
 - Data is fetched on https://jsonplaceholder.typicode.com

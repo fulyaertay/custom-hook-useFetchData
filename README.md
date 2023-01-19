@@ -8,6 +8,7 @@
 ```bash
 - Project provides to manage fetching processes
 - User can see fetching status such as loading, success or error messages
+- User should see todo title if fetching is success
 ```
 
 ## Overview

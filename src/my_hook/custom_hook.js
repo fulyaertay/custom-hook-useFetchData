@@ -34,4 +34,5 @@ export default function useFetchData(){
            }
         )
     }
+    return [fetchData,{onLoading,onError,onSuccess}]
 }
